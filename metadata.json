@@ -1,0 +1,5 @@
+{
+  "name": "TikTok CSV Content Linker",
+  "description": "A high-performance CSV processing tool designed to transform TikTok content IDs into clickable direct links while maintaining full data integrity and providing a clean, professional dashboard view.",
+  "requestFramePermissions": []
+}
